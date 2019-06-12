@@ -1,4 +1,4 @@
-body{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; font-size:14px; background:#070707} 
+body{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; font-size:14px; /* background:#070707 */} 
 .small {
     color: #000066;
     font-family: Arial,Helvetica,sans-serif;
